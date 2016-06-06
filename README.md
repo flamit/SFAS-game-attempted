@@ -51,3 +51,5 @@ I created a randomly generated maze based on the kruskal algorithm. We have rand
 				break;
 		}
 		create_exits(rand_exits, rand_floor_exits);
+
+![kruskal maze algorthm](https://cloud.githubusercontent.com/assets/15308778/15822761/a3715f4c-2bef-11e6-96c6-8f5e874e50ba.JPG)
